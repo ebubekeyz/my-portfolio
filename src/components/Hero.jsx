@@ -33,7 +33,7 @@ const Hero = () => {
           <img
             src={ebubeImg}
             alt="hero image"
-            className="w-96 rounded-full object-cover"
+            className="w-full h-full rounded-full object-cover"
           />
         </article>
       </div>
